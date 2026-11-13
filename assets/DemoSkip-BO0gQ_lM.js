@@ -1,1 +1,0 @@
-import{t as e}from"./react-BxwKUZAx.js";import{A as t,M as n,j as r}from"./index-C4OdjHR3.js";e();function i({className:e}){let{api:i}=n(),{t:a}=r();return t(),null}export{i as t};
